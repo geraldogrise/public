@@ -1,0 +1,8 @@
+.pagination a{
+    cursor:pointer;
+ }
+ .page-link{
+    color: #007bff;
+    background-color: #fff;
+ }
+ 
